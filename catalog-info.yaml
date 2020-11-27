@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-react-app
-  description: "backstage react app"
+  description: backstage_react_app
 spec:
   type: website
   lifecycle: experimental
